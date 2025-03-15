@@ -8,7 +8,7 @@ I'm a beginner **Web & Game Developer** passionate about building web applicatio
 - **Web Development:** Laravel, Tailwind CSS, Blade
 - **Game Development:** Unity (C#), Minecraft Modding (JS)
 - **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA
+- **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA, Blockbench
 
 ## 📊 GitHub Stats
 [DhikaV0 Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
