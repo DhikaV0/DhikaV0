@@ -1,0 +1,16 @@
+# Hi there! 👋 I'm Andhika
+
+## 🚀 About Me
+I'm a beginner **Web & Game Developer** passionate about building web applications and creating game mods. Currently, I'm exploring **Laravel, JavaScript, and C#** for web development and working on **Minecraft modding with JavaScript**.
+
+## 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, C#
+- **Web Development:** Laravel, Tailwind CSS, Blade, Livewire
+- **Game Development:** Unity (C#), Minecraft Modding (JS)
+- **Database:** MySQL, Firebase
+- **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA
+
+## 📊 GitHub Stats
+[DhikaV0 Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+
+_"Learning one line of code at a time!"_
