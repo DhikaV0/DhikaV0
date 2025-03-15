@@ -5,9 +5,9 @@ I'm a beginner **Web & Game Developer** passionate about building web applicatio
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, C#
-- **Web Development:** Laravel, Tailwind CSS, Blade, Livewire
+- **Web Development:** Laravel, Tailwind CSS, Blade
 - **Game Development:** Unity (C#), Minecraft Modding (JS)
-- **Database:** MySQL, Firebase
+- **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA
 
 ## 📊 GitHub Stats
