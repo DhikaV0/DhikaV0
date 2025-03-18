@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Andhika
 
 ## 🚀 About Me
-I'm a beginner **Web & Game Developer** passionate about building web applications and creating game mods. Currently, I'm exploring **Laravel, JavaScript, and C#** for web development and working on **Minecraft modding with JavaScript**.
+I'm a beginner **Web & Game Developer** passionate about building web applications and creating game mods. Currently, I'm exploring **Laravel, JavaScript, and C#** for web development and try creating **Minecraft mod with JavaScript**.
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, C#
