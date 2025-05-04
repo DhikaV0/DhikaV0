@@ -5,7 +5,7 @@ I'm a beginner **Web & Game Developer** passionate about building web applicatio
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, C#
-- **Web Development:** Laravel, Tailwind CSS, Blade
+- **Web Development:** Laravel, ,Flutter
 - **Game Development:** Unity (C#), Minecraft Modding (JS)
 - **Database:** MySQL
 - **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA, Blockbench
