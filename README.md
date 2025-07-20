@@ -11,6 +11,6 @@ I'm a beginner **Web & Game Developer** passionate about building web applicatio
 - **Tools:** Git, GitHub, VS Code, Figma, Intellij IDEA, Blockbench
 
 ## 📊 GitHub Stats
-[DhikaV0 Langs](https://github-readme-stats.vercel.app/api/top-langs/?DhikaV0e=myusername&theme=tokyonight)
+[DhikaV0 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhikaV0&theme=tokyonight)
 
 _"Learning one line of code at a time!"_
