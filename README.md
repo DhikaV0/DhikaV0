@@ -4,7 +4,7 @@
 I'm a beginner **Web & Game Developer** passionate about building web applications and creating game mods. Currently, I'm exploring **Laravel, JavaScript, and C#** for web development and try creating **Minecraft mod with JavaScript**.
 
 ## 🛠️ Tech Stack
-- **Languages:** PHP, JavaScript, C#
+- **Languages:** PHP, JavaScript, Java
 - **Web Development:** Laravel
 - **Game Development:** Unity (C#), Minecraft Modding (JS)
 - **Database:** MySQL
