@@ -34,13 +34,24 @@ Currently learning & exploring:
 
 ## 🌌 Connect with Me
 <p align="center">
-  <a href="https://github.com/DhikaV0">
-    <img src="https://img.shields.io/badge/GitHub-DhikaV0-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/andhika-judha-6583aa353/">
+    <img src="https://img.shields.io/badge/Linkedin-005F9E?style=for-the-badge" />
   </a>
   <a href="https://discord.com/users/760323642931937301">
-    <img src="https://img.shields.io/badge/Discord-GameDev%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:andhikajudhaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:judhapratamaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://itch.io/profile/dhikav0">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Being lucky is also a kind of talent." Someone once told me that.</i>
+  <br>
+  <b>-Hoshimi Miyabi-</b>
 </p>
