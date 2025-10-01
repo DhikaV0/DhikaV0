@@ -3,28 +3,28 @@
 </p>
 
 # 👋 Hi there, I'm **Andhika**  
-### 🚀 Web & Game Developer | 🎮 Anime & Gaming Enthusiast  
+### Web & Game Developer | Anime & Gaming Enthusiast  
 
 ---
 
-## ✨ About Me
-🌸 A beginner **Web & Game Developer** who loves mixing **tech + gaming + anime vibes**.  
+##  About Me
+Im a beginner **Web & Game Developer** who loves mixing **tech + gaming + anime vibes**.  
 Currently learning & exploring:  
-- 🌐 **Next JS, Python**  
-- 🎮 Modding for **Minecraft**  
-- 🎨 Trying to make game assets with **Blockbench**  
-- 🤖 Trying make AI chatbot for **Discord**
+-  **Next JS, Python**  
+-  Modding for **Minecraft**  
+-  Trying to make game assets with **Blockbench**  
+-  Trying make AI chatbot for **Discord**
 
 ---
 
-## ⚡ Tech Stack
+##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,py,java,cs,nextjs,laravel,unity,git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhikaV0&theme=algolia&show_icons=true&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhikaV0&theme=tokyonight&layout=compact&hide_border=true" height="165" />
@@ -32,7 +32,7 @@ Currently learning & exploring:
 
 ---
 
-## 🌌 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/andhika-judha-6583aa353/">
     <img src="https://img.shields.io/badge/Linkedin-005F9E?style=for-the-badge" />
