@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.jpg" alt="Zenless Zone Zero Banner" width="100%" />
+  <img src="assets/Banner.png" alt="Zenless Zone Zero Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm **Andhika**  
