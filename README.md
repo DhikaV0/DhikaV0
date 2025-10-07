@@ -8,7 +8,7 @@
 ---
 
 ##  About Me
-Im a beginner **Web & Game Developer** who loves mixing **tech + gaming + anime vibes**.
+Im a beginner **Web & Game Developer** who loves mixing **tech + gaming + anime vibes**. <br>
 Beside that, im also interest to learn **Paleontolgy** and **Astronomy**.
 
 ##  Tech Stack
