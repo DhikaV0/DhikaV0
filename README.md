@@ -27,7 +27,7 @@ Beside that, im also interest to learn **Paleontolgy** and **Astronomy**.
   <a href="https://www.linkedin.com/in/andhika-judha-6583aa353/">
     <img src="https://img.shields.io/badge/Linkedin-005F9E?style=for-the-badge" />
   </a>
-  <a href="https://discord.com/users/760323642931937301">
+  <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:judhapratamaa@gmail.com">
