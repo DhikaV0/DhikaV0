@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hi there, I'm **Andhika**  
-### Web & Game Developer | Anime & Gaming Enthusiast  
+### Web Dev & Minecraft Modder
 
 ---
 
