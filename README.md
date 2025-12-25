@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Zenless Zone Zero Banner" width="100%" />
+  <img src="https://media1.tenor.com/m/2a_n-lpZfGcAAAAd/zzz-zenless-zone-zero.gif" alt="Zenless Zone Zero Banner" width="100%" />
 </p>
 
-# 👋 Hi there, I'm **Andhika**  
+# Hi there, I'm **Andhika**  
 ### Web Dev & Minecraft Modder
 
 ---
