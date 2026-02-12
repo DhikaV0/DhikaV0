@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/2a_n-lpZfGcAAAAd/zzz-zenless-zone-zero.gif" alt="Zenless Zone Zero Banner" width="100%" />
+  <img src="https://media.tenor.com/wb2MU5gJva4AAAAi/khockra-zzz.gif" alt="Zenless Zone Zero Banner" width="20%" />
 </p>
 
 # Hi there, I'm **Andhika**  
