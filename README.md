@@ -3,23 +3,13 @@
 </p>
 
 # Hi there, I'm **Andhika**  
-### Web Dev & Minecraft Modder
 
----
-
-##  About Me
 Im a beginner **Web Developer & Minecraft Modder** who loves mixing **tech + gaming + anime vibes**. <br>
 Beside that, im also interest to learn **Paleontolgy** and **Astronomy**.
 
 ##  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,py,java,cs,nextjs,laravel,unity,git,github,vscode,mysql" />
-</p>
-
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhikaV0&theme=algolia&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhikaV0&theme=tokyonight&layout=compact&hide_border=true" height="165" />
 </p>
 
 ##  Connect with Me
